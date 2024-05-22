@@ -16,7 +16,7 @@
     "@sanity/base": "^0.x",
     "@sanity/cli": "^0.x",
     "@sanity/components": "^0.x",
-    "@sanity/core": "^0.x",
+    "@sanity/core": "^2.6.2",
     "@sanity/dashboard": "^0.x",
     "@sanity/default-layout": "^0.x",
     "@sanity/default-login": "^0.x",
